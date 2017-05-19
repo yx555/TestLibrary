@@ -1,6 +1,0 @@
-use_frameworks!
-target 'CodeTestLibrary_Tests' do
-  pod 'CodeTestLibrary', :path => '../'
-  
-  
-end
